@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/ai2010/movie_reviews_analizer_app.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

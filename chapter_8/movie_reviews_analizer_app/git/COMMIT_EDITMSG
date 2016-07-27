@@ -1,0 +1,12 @@
+new algo sentiment
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	modified:   scrapy_spider/spiders/movie_link_results.py
+#	modified:   scrapy_spider/spiders/movie_link_results.pyc
+#	modified:   scrapy_spider/test_api/test_bing.py
+#	modified:   webmining/db.sqlite3
+#	modified:   webmining/webmining/views.py
+#	modified:   webmining/webmining/views.pyc
+#
