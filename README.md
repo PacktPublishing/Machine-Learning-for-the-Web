@@ -1,5 +1,5 @@
 # Machine-Learning-for-the-Web
-By Packt Publishing
+By Packt
 
 This is the code repository for [Machine Learning for the Web](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-web), published by [Packt Publishing](https://www.packtpub.com/). It contains all the required files to run the code.
 
